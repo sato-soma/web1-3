@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/web1-3aaaaaaaa.unity
+  isLoaded: 1
+  isActive: 1
