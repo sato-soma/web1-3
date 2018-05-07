@@ -2,12 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-<<<<<<< Updated upstream
-public class Test : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-=======
 public class Player
 {
 
@@ -52,7 +46,6 @@ public class Test : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
->>>>>>> Stashed changes
         Debug.Log("Hello, World");
 
         int age;
@@ -160,8 +153,6 @@ public class Test : MonoBehaviour {
             sum += i;
         }
          Debug.Log(sum);
-<<<<<<< Updated upstream
-=======
 
         int[] array = new int[5];
 
@@ -211,7 +202,6 @@ public class Test : MonoBehaviour {
         float len = dir.magnitude;
         Debug.Log(len);
 
->>>>>>> Stashed changes
     }
 	
 	// Update is called once per frame
